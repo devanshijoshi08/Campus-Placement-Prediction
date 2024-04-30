@@ -3,6 +3,8 @@
 ### Project Overview
 This project leverages machine learning to predict the success of students in securing campus placements. By analyzing various factors such as academic scores, specialization, work experience, and other personal attributes, we aim to understand what influences placement outcomes and develop models that can predict whether a student will get placed.
 
+Dataset used from Kaggle: [Campus Recruitment](https://www.kaggle.com/datasets/gauravduttakiit/campus-recruitment/data)
+
 ### Features
 - Uses multiple machine learning models: Support Vector Machine (SVM), Logistic Regression, Naive Bayes, and Decision Tree.
 - Analyzes the impact of academic and personal factors on placement success.
